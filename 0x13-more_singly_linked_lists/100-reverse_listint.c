@@ -21,4 +21,4 @@ prev = *head;
 *head = prev;
 return (*head);
 }
-}
+
